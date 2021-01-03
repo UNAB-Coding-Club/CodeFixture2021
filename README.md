@@ -41,7 +41,8 @@ La mejor manera de mejorar en programación (y en muchas cosas más) es practica
   - *How:* Cualquier lenguaje de programación, conocimiento básicos de git
   - *Why:* Buena experiencia para conocer como funciona un proyecto open source, pulir conocimientos de VCS y además poder ser contribuidor oficial de algún proyecto.
 ## Noviembre
-## Diciembre 
+
+## Diciembre 
 1. [**Advent of Code**](https://adventofcode.com/)
    - *When:* 1 Dec - 25 Dec
    - *What:* Evento de programación que simula la fiesta del (Adviento)[https://es.wikipedia.org/wiki/Adviento]. La idea es realizar los 25 desafios, uno cada día hasta navidad. La dificultad de los desafios varia según el día. 
