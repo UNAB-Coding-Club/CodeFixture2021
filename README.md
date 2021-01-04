@@ -9,10 +9,10 @@ La mejor manera de mejorar en programación (y en muchas cosas más) es practica
 
 ## Febrero
 1. [**Google HashCode**](https://codingcompetitions.withgoogle.com/hashcode)
-  - *When:* Inscripción en Enero, Feb - Mar
-  - *What:* Competencia de programación orientada a resolver problemas de ingeniería reales que existen en Google. Es en equipos.
-  - *How:* Varios lenguajes de programación (revisar FAQs)
-  - *Why:* Poder revisar problemas reales más trabajo en equipos, los cuales pueden ser selecionados por ti o buscar uno aletaorio. 
+    - *When:* Inscripción en Enero, Feb - Mar
+    - *What:* Competencia de programación orientada a resolver problemas de ingeniería reales que existen en Google. Es en equipos.
+    - *How:* Varios lenguajes de programación (revisar FAQs)
+    - *Why:* Poder revisar problemas reales más trabajo en equipos, los cuales pueden ser selecionados por ti o buscar uno aletaorio. 
 
 ## Marzo
 1. [**Google CodeJam**](https://codingcompetitions.withgoogle.com/codejam)
